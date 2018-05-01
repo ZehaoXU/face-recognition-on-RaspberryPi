@@ -2,7 +2,7 @@
 Face detection and face recognition based on raspberry pi 3. I use raspbian stretch with python 3.5, but other OS should also be good.
 
 ## How to run?
-1. Run the 'trainModel.py' onece on your *computer*.
+1. Run the 'trainModel.py' once on your **computer**.
 2. Plant the trained model to your raspberry pi and run the 'faceRecognize.py' to realize real-time face recognition.
 
 ## Notes
